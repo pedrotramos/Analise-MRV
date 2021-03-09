@@ -1,4 +1,4 @@
-#Finanças I - APS 1
+# Finanças I - APS
 
 Instalando pacotes python para rodar o script:
 
